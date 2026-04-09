@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <img align=”right” alt=”Coding” width=”400” src="./image/git banner.png"/>
 
@@ -73,3 +74,21 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 </div>
+=======
+## Hi there 👋
+
+<!--
+**rokan45/rokan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> b25e05d732b7d33080a8cb731b48e9eaec2a92c3

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 <img align=”right” alt=”Coding” width=”400” src="./image/git banner.png"/>
 
@@ -16,14 +15,12 @@
 
 <br/>
 
----
 
 <div align="center">
   <strong>CSE Undergraduate 👨‍💻 | MERN Stack Developer | Building projects with React, Node.js & MongoDB | Exploring Next.js & Scalable Backend Systems 🚀 | Open Source Enthusiast 🏏</strong>
 </div>
 
 
----
 
 <div align='center'>
 
@@ -39,7 +36,6 @@
 
 📫 Reach out to me at **rokanuzzaman4567@gmail.com**</div>
 
----
 
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
@@ -61,7 +57,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
----
 
 <h2 align='center'>📊 GitHub Stats</h2>
 
